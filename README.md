@@ -57,3 +57,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<img width="1919" height="1000" alt="Cuplikan layar 2026-02-02 150441" src="https://github.com/user-attachments/assets/acc43c80-6cfe-4551-ab26-05c1a28c1c11" />
+<img width="1919" height="996" alt="Cuplikan layar 2026-02-02 150351" src="https://github.com/user-attachments/assets/912e7171-a1f0-4787-a70a-792c27f24393" />
+<img width="1919" height="992" alt="Cuplikan layar 2026-02-02 150111" src="https://github.com/user-attachments/assets/d41d9539-0c56-48d8-8adb-c920b13d6e1f" />
+<img width="1919" height="984" alt="Cuplikan layar 2026-02-02 150103" src="https://github.com/user-attachments/assets/6f84eaa3-baec-4607-b2ca-d4d0f9a134ab" />
+<img width="1919" height="991" alt="Cuplikan layar 2026-02-02 150054" src="https://github.com/user-attachments/assets/2121cc38-d536-48dc-922d-945acc766e76" />
+<img width="1919" height="990" alt="Cuplikan layar 2026-02-02 150040" src="https://github.com/user-attachments/assets/12dc3b6e-383d-4d31-99c1-714abe8a8ec6" />
+<img width="1919" height="998" alt="Cuplikan layar 2026-02-02 150032" src="https://github.com/user-attachments/assets/a968bee2-8ee9-4576-af0a-f25c04d19e35" />
+<img width="1919" height="1000" alt="Cuplikan layar 2026-02-02 150441" src="https://github.com/user-attachments/assets/2b576bda-44af-4079-8ada-a3d57148f111" />
+
+
+
